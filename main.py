@@ -27,9 +27,6 @@ parser.add_argument('--use_gpu', dest='use_gpu', type=int, default=1, help='gpu 
 parser.add_argument('--p', dest='p', type=float, default=10, help='p') #Parameter for Graph Laplacian Regularizer
 parser.add_argument('--phase', dest='phase', default='train', help='train or test')
 parser.add_argument('--checkpoint_dir', dest='ckpt_dir', default='./checkpoint', help='models are saved here')
-parser.add_argument('--test_dir', dest='test_dir', default='./test', help='test sample are saved here')
-parser.add_argument('--train_set', dest='train_set', default='Train400', help='dataset for train in training')
-parser.add_argument('--test_set', dest='test_set', default='BSD68', help='dataset for testing')
 args = parser.parse_args()
 
 #sensei, i m here , there is some problem with my micphone
