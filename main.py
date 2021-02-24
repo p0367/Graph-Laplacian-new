@@ -9,7 +9,7 @@ import numpy as np
 import scipy.misc
 import os
 
-datanub = 1
+datanub = 1   ##select dataset 1/2##
 
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--epoch', dest='epoch', type=int, default=10001, help='# of epoch')
