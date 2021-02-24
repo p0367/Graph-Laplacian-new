@@ -8,16 +8,8 @@ from utils import *
 import numpy as np
 import scipy.misc
 import os
-#os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 datanub = 1
-#import os
-#os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-#os.environ["CUDA_VISIBLE_DEVICES"] = "1"
-
-#import os
-#os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"   
-#os.environ["CUDA_VISIBLE_DEVICES"] = "1, 4, 6"
 
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--epoch', dest='epoch', type=int, default=10001, help='# of epoch')
