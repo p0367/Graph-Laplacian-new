@@ -3,7 +3,7 @@ from glob import glob
 
 import tensorflow as tf
 
-from model_EDSR import denoiser       #select model here
+from model_EDSR import denoiser       ##select model here##
 from utils import *
 import numpy as np
 import scipy.misc
