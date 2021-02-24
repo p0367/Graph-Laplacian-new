@@ -5,3 +5,7 @@ Graph Laplacian Regularization for Super-Resolution Task (Tensorflow)
 
 # aa
 11a
+
+# Requirements
+Python 3.6
+Tensorflow 2
