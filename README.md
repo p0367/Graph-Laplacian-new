@@ -28,7 +28,7 @@ https://google.github.io/cartoonset/
 
 ## Requirements
 ```
-tensorflow >= 1.4
+tensorflow >= 2
 numpy
 opencv
 ```
