@@ -1,5 +1,5 @@
 # Graph-Laplacian-new
-Graph Laplacian Regularization for Super-Resolution Task (Tensorflow)
+Graph Laplacian Regularization for Super-Resolution Task (Tensorflow)  
 the code from my research  
 
 ## method
