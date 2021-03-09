@@ -20,9 +20,9 @@ The average PSNR(dB) results of different methods on the Manga109 dataset.
 | 19.95  |  20.07  |   **21.00**   | 20.54  | **21.89** |  20.31 |  **21.84** |
 
 ## Dataset
-I used the Manga109/Cartoon set dataset for training, you can download it here: 
+I used the Manga109/Cartoon set dataset for training, you can download it here:   
 Manga109:  
-http://www.manga109.org/ja/index.html
+http://www.manga109.org/ja/index.html  
 Cartoon set:  
 https://google.github.io/cartoonset/
 
@@ -36,14 +36,13 @@ opencv
 ## Train
 ```
 $ python main.py
-
 ```
 
 ## Note1
 please unzip from .7z to get the sample dataset
 
 ## Note2
-1. to change the model by changing the import,for example
+1. to change the model by changing the import,for example  
 import model_EDSR → import model_WDSR  
 
 2. can also change the scale in every model.py
