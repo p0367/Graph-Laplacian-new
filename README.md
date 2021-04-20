@@ -1,6 +1,6 @@
 # Graph-Laplacian-new
 Graph Laplacian Regularization for Super-Resolution Task (Tensorflow)  
-sample of paper:[New_Graph_Laplacian .pdf](https://github.com/p0367/Graph-Laplacian-new/files/6345015/New_Graph_Laplacian.pdf)
+sample of paper:[New_Graph_Laplacian .pdf](https://github.com/p0367/Graph-Laplacian-new/files/6345015/New_Graph_Laplacian.pdf)  
 the code from my research  
 
 ## method
